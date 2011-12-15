@@ -1,0 +1,10 @@
+{
+  "name": "weibo search",
+  "description": "新浪微博搜索",
+  "version": "0.1",
+  "icons":{
+	  "16" : "weibo.png"
+  },
+  "permissions": ["contextMenus"],
+  "background_page": "background.html"
+}
